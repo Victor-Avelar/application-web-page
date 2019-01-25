@@ -1,0 +1,21 @@
+#romajiInputBox{
+    color: dodgerblue;
+    background-color: #ffedc9;
+    border: none;
+}
+
+#katakanaBox{
+    color: limegreen;
+    background-color: #fff5e0;
+    border: none;
+}
+
+#hiraganaBox{
+    color: coral;
+    background-color: #ffedc9;
+    border: none;
+}
+
+textarea{
+    outline: none;
+}
